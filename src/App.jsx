@@ -72,8 +72,8 @@ function App() {
 
           <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 sm:gap-6 mb-12 max-w-3xl">
             {[
-              { num: "3+", label: "Projects buil" },
-              { num: "AI", label: "Gemini XPRIZE hackathon built" },
+              { num: "3+", label: "Projects built" },
+              { num: "AI", label: "Built Global Fit AI" },
               { num: "6+", label: "Core stacks & tools" },
             ].map((stat, i) => (
               <div
