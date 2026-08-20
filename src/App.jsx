@@ -49,7 +49,7 @@ function App() {
             </a>
 
             <a
-              href="/Waniyah_Khan_Resume.pdf"
+              href="/waniyah-khan-resume.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="px-6 py-3 bg-zinc-900 border border-purple-500/20 hover:border-purple-500 text-zinc-200 font-semibold rounded-lg transition-all shadow-[0_0_15px_-5px_rgba(168,85,247,0.2)] hover:shadow-purple-500/30"
